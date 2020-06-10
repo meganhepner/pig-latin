@@ -1,11 +1,8 @@
-FUNCTIONING CODE
-
-
 
 # _pig-latin_
 
 
-#### _starting out with forms, 6.3.20_
+#### _Arrays & Loops, 6.10.20_
 
 #### By _**Megan Hepner, Ruthie Newman**_
 
