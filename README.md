@@ -28,8 +28,9 @@ Html, CSS, Bootstrap, JavaScript, JQuery
 | Spec | Input | Output |
 | :-------------     | :------------- | :------------- |
 | **Program does nothing to non-alphabetical characters** | User input : "3" | Output : "3"|
-
+| :-------------     | :------------- | :------------- |
 | **Program adds "way" to single-letter words beginning with a vowel** | User input: "i" | Output: "iway" |
+| :-------------     | :------------- | :------------- |
 
 | **Program checks first letter of multi-letter word to see if it's a vowel.** | User Input: "irish" | Output: "true" |
 
